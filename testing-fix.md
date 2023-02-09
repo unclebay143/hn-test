@@ -2,7 +2,7 @@
 title: Testing latex fix
 subtitle: An example subtitle
 slug: testing-fix
-tags: reactjs, css, python, nodejs
+tags: reactjs, css, python, nodejs 
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1649662225945/7f_c6UxhR.jpg?auto=compress
 domain: 1999-personal.hashnode.dev/
 ---
