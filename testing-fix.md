@@ -7,7 +7,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1649662225945/7f_c6Ux
 domain: 1999-personal.hashnode.dev/
 ---
 
-# Testing fix
+# Testing fix (update from github)
 The input is a collection of \\\\(N\\\\) numbers and iteration k. 
 At each iteration, we need pick the largest number \\\\(x\\\\), put \\\\(\\\\sqrt{x}\\\\) back to the collection, and take away \\\\(x-\\\\sqrt{x}\\\\). 
 The output is sum of remaining numbers after \\\\(k\\\\) iterations.
